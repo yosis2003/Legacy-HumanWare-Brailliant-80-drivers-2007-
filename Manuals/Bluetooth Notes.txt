@@ -1,0 +1,7 @@
+Notes on Bluetooth Connectivity with HumanWare braille Displays
+April 2007
+
+A HumanWare braille display connected via Bluetooth requires a Bluetooth interface
+to be installed and configured on the PC.  A Bluetooth connection when running on Microsoft Windows XP Service Pack 2 or later can generally manage Bluetooth devices without the need for additional drivers.  However, earlier versions of Windows will likely require the installation of Bluetooth drivers provided by the Manufacturer of the Bluetooth device.  Once your computer is equipped to handle Bluetooth you will need to search for and pair with the braille display in order to establish a "trust" between your PC and the braille display.  Use the pairing code of "1234" when prompted.  The braille display will then show up in Bluetooth Neighbourhood and provide a "Serial Profile" with a com port number assigned to it.  Use this Com port number during the configuration and/or setup of your screen reader.  See the accompanying documentation in the respective screen reader folder for specifics on how to set up your screen reader to work with the braille display.  Also consult the User manual for information on how to enable Bluetooth on the braille display.
+
+

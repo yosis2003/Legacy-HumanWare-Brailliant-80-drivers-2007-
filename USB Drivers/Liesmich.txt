@@ -1,0 +1,10 @@
+USB Treiber für BAUM Braillezeilen
+===================================
+
+Diese Datei enthält die von Microsoft zertifizierten USB Treiber für BAUM Braillezeilen der Serien SuperVario, VarioConnect und VarioPro (incl. Module) sowie Vario 40 USB adapter. 
+
+Diese USB Treiber stellen sowohl eine virtuelle serielle Schnittstelle zur Ansteuerung der Braillezeile als auch den direkten Zugriff auf die Braillezeile über USB zur Verfügung. Die Treiber sind unter Windows XP, VISTA und Windows 7 lauffähig sowohl auf 32 bit als auch 64 bit Versionen.
+
+Starten SIe das Programm setup.exe !bevor! Sie die Braillezeile mit dem PC verbinden um die Treiber zu installieren. Wenn der Treiber einmal installiert wurde, wird die Braillezeile automatisch erkannt, sobald sie mit dem USB Port verbunden wird, und zwar an jedem beliebigen USB port. Bitte achten Sie darauf, dass die Braillezeile auch auf USB eingestellt ist.
+
+Diese Treiber ersetzen die älteren Versionen.    

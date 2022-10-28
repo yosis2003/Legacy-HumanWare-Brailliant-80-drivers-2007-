@@ -1,0 +1,17 @@
+Procédures d'installation du Brailliant avec Jaws français.
+
+
+1.	Installer ou avoir déjà installé Jaws sur votre ordinateur.
+2.	Insérez le CDROM dans le lecteur CDROM de votre ordinateur.
+3.	Brancher le câble USB entre le Brailliant et l'ordinateur. Windows va détecter un nouveau matériel, suivre la procédure d'installation automatique recommandée. Windows va trouver le pilote USB du Brailliant sur le CDROM et l'installer automatiquement. 
+4.	Il faut maintenant aller dans le menu démarrer \ paramètre \ panneau de configuration \ système \ l'onglet matériel \ bouton gestionnaire des périphériques et ouvrir la section PORTS COM ET LPT. Il faut noter le numéro du port COM qui sera attribué au Brailliant.
+5. 	Exécutez le programme " BrailleConnect-Brailliant-JFWDrv.exe ". Choisir "Brailliant 	40" (pour installer le Brailliant 40) et le bon numéro de port COM.
+6. 	Ensuite remplacer le fichier « DEFAULT.JKM » dans votre ordinateur par celui sur ce CD selon la version de Jaws que vous avez.
+7.	Exécutez Jaws (s'il est déjà en fonction, vous devez le quitter et le relancer), le Brailliant va s'activer automatiquement au démarrage de JAws. Il est maintenant votre afficheur braille par défaut dans Jaws.
+
+
+
+
+
+
+
